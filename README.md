@@ -1,1 +1,1 @@
-Testing my vagrant installation
+Vagrant setup
